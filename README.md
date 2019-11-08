@@ -1,6 +1,6 @@
 # Open APC
 ## Autor 
-Ulrike Wuttke 
+Ulrike Wuttke Berlin  
 ## Date 
-2019-11-08 
+2019-11-08 Nachmittag 
 
